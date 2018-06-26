@@ -1,0 +1,120 @@
+{"title":"New Apartment!!! Ready to rent Today!! 2430 1 Bedroom 1 Bath 1x1","price":"$2430","url":"https://sfbay.craigslist.org/sfc/apa/d/new-apartment-ready-to-rent/6626904093.html","hood":"East Oakland"}
+{"title":"2 Cool! 2 weeks FREE! Brand New!","price":"$2200","url":"https://sfbay.craigslist.org/nby/apa/d/2-cool-2-weeks-free-brand-new/6622457999.html","hood":"rohnert pk / cotati"}
+{"title":"Wonderful 3 Bedroom 2 bath Top floor flat with garage parking!","price":"$3850","url":"https://sfbay.craigslist.org/pen/apa/d/wonderful-3-bedroom-2-bath/6626904023.html","hood":"daly city"}
+{"title":"Re:GoSection8.com-MAKE THE LANDLORD PAY HIS MORTGAGE805 South 22nd st","price":"$3200","url":"https://sfbay.craigslist.org/sby/apa/d/regosection8com-make-the/6626903791.html","hood":"san jose east"}
+{"title":"Danville Townhouse - Single Level - Two Car Garage","price":"$3700","url":"https://sfbay.craigslist.org/eby/apa/d/danville-townhouse-single/6626903377.html","hood":"danville / san ramon"}
+{"title":"Live Like You Want That's Our Anthem San Leandro 1 Month Free","price":"$2050","url":"https://sfbay.craigslist.org/eby/apa/d/live-like-you-want-thats-our/6626903317.html","hood":"san leandro"}
+{"title":"$2895 2x2, Two Bedroom 401 DERBY! Work Live Unit","price":"$3850","url":"https://sfbay.craigslist.org/eby/apa/d/2895-2x2-two-bedroom-401/6626903320.html","hood":"alameda"}
+{"title":"Give Us a 📞! We give great 📶! Come for a Tour Today!","price":"$3400","url":"https://sfbay.craigslist.org/sby/apa/d/give-us-we-give-great-come/6626903037.html","hood":"campbell"}
+{"title":"1x1 Downtown Walnut Creek! Parking Included!","price":"$1795","url":"https://sfbay.craigslist.org/eby/apa/d/1x1-downtown-walnut-creek/6626903028.html","hood":"walnut creek"}
+{"title":"ASAP,Summer,Furnished Bedroom Living,Dining,Included Utilities,Parking","price":"$1895","url":"https://sfbay.craigslist.org/eby/apa/d/asapsummerfurnished-bedroom/6626869238.html","hood":"berkeley"}
+{"title":"Pet relief area, Outdoor Fitness Area, Covered Parking","price":"$1965","url":"https://sfbay.craigslist.org/eby/apa/d/pet-relief-area-outdoor/6623270502.html","hood":"hayward / castro valley"}
+{"title":"2B2B+Den w/ Move-In Special! $1500 OFF First Month! In-Unit Washer+Dryer | Garag","price":"$3795","url":"https://sfbay.craigslist.org/pen/apa/d/2b2bden-move-in-special-1500/6626902360.html","hood":"redwood shores"}
+{"title":"1bd/1ba - Starting from 715 SqFt. - In Home Washer and Dryer","price":"$2112","url":"https://sfbay.craigslist.org/eby/apa/d/1bd-1ba-starting-from-715/6626902233.html","hood":"dublin / pleasanton / livermore"}
+{"title":"San Carlos Updated Spacious Apartment","price":"$2850","url":"https://sfbay.craigslist.org/pen/apa/d/san-carlos-updated-spacious/6626902238.html","hood":"san carlos"}
+{"title":"Perfect One Bedroom Perfect Price Move In Now!","price":"$2714","url":"https://sfbay.craigslist.org/eby/apa/d/perfect-one-bedroom-perfect/6626902145.html","hood":"emeryville"}
+{"title":"LAST ONE!! Huge 2x2, Pool View, Large Patio, Walk-in Closets!","price":"$3795","url":"https://sfbay.craigslist.org/eby/apa/d/last-one-huge-2x2-pool-view/6626901998.html","hood":"walnut creek"}
+{"title":"Fabulous 2 bed 1 bath apt home with in house laundry coming soon!","price":"$2644","url":"https://sfbay.craigslist.org/eby/apa/d/fabulous-2-bed-1-bath-apt/6626901497.html","hood":"dublin / pleasanton / livermore"}
+{"title":"Renovated 1 BR near Union City BART, coming 7/13","price":"$2165","url":"https://sfbay.craigslist.org/eby/apa/d/renovated-1-br-near-union/6626901697.html","hood":"fremont / union city / newark"}
+{"title":"\"FULLY REMODELED\" 3 Bdrm, 1 Bath, Single Family House","price":"$2995","url":"https://sfbay.craigslist.org/eby/apa/d/fully-remodeled-3-bdrm-1-bath/6626901532.html","hood":"West Oakland"}
+{"title":"Corner 2 Bedroom in New Building Available July 1","price":"$4575","url":"https://sfbay.craigslist.org/sfc/apa/d/corner-2-bedroom-in-new/6626901281.html","hood":"potrero hill"}
+{"title":"Nice Neighborhood! Near El Camino and Wolfe Rd. Ready 8/11","price":"$2250","url":"https://sfbay.craigslist.org/sby/apa/d/nice-neighborhood-near-el/6626901237.html","hood":"sunnyvale"}
+{"title":"2x1.25 with stainless steel appliances & granite counters!","price":"$1915","url":"https://sfbay.craigslist.org/eby/apa/d/2x125-with-stainless-steel/6626901240.html","hood":"pittsburg / antioch"}
+{"title":"2-Bedroom/ 2-Bath Coming Available Soon At Avenue 64!!!","price":"$3550","url":"https://sfbay.craigslist.org/eby/apa/d/2-bedroom-2-bath-coming/6626901201.html","hood":"emeryville"}
+{"title":"\"FULLY REMODELED\" 2 Bdrm, 1 Bath, 4plex","price":"$2195","url":"https://sfbay.craigslist.org/eby/apa/d/fully-remodeled-2-bdrm-1-bath/6626901055.html","hood":"East Oakland"}
+{"title":"Spacious Private Bedroom with Private entrance, ALL utilities included","price":"$900","url":"https://sfbay.craigslist.org/sfc/apa/d/spacious-private-bedroom-with/6622238779.html","hood":"excelsior / outer mission"}
+{"title":"Spacious Two Bedroom Two Bathroom Available Now!!!","price":"$2482","url":"https://sfbay.craigslist.org/eby/apa/d/spacious-two-bedroom-two/6626900966.html","hood":"richmond / point / annex"}
+{"title":"Cozy and Convenient Kentfield Apartment - PRANDI","price":"$1950","url":"https://sfbay.craigslist.org/nby/apa/d/cozy-and-convenient-kentfield/6616268756.html","hood":"kentfield / ross"}
+{"title":"Beautiful 4 Bedroom Mountain Retreat","price":"$7500","url":"https://sfbay.craigslist.org/pen/apa/d/beautiful-4-bedroom-mountain/6609084265.html","hood":"woodside"}
+{"title":"Cozy and Bright Hillside Cottage - PRANDI","price":"$2375","url":"https://sfbay.craigslist.org/nby/apa/d/cozy-and-bright-hillside/6611483331.html","hood":"mill valley"}
+{"title":"\"FULLY REMODELED\" 3 Bdrm, 1 Bath, Single Family House","price":"$2895","url":"https://sfbay.craigslist.org/eby/apa/d/fully-remodeled-3-bdrm-1-bath/6626900876.html","hood":"North Oakland"}
+{"title":"Unit in Victorian Building","price":"$3650","url":"https://sfbay.craigslist.org/sfc/apa/d/unit-in-victorian-building/6626900864.html","hood":"castro / upper market"}
+{"title":"Bright San Marin Home with Expansive Backyard! - PRANDI","price":"$3300","url":"https://sfbay.craigslist.org/nby/apa/d/bright-san-marin-home-with/6607588168.html","hood":"novato"}
+{"title":"2 MASTER SUITES- 5 BEDROOMS, 3.5 BATHS","price":"$5590","url":"https://sfbay.craigslist.org/sby/apa/d/2-master-suites-5-bedrooms-35/6616368192.html","hood":"san jose downtown"}
+{"title":"Gorgeous Studio Coming Available Soon!","price":"$2500","url":"https://sfbay.craigslist.org/eby/apa/d/gorgeous-studio-coming/6626900626.html","hood":"emeryville"}
+{"title":"车库停车场，门房，干","price":"$2555","url":"https://sfbay.craigslist.org/sfc/apa/6626870119.html","hood":"nob hill"}
+{"title":"\"FULLY REMODELED\" Large 2 Bdrm, 1 Bath, Duplex","price":"$3295","url":"https://sfbay.craigslist.org/eby/apa/d/fully-remodeled-large-2-bdrm/6626900499.html","hood":"Berkeley"}
+{"title":"Spacious Private Bedroom with Private entrance, ALL utilities included","price":"$900","url":"https://sfbay.craigslist.org/sfc/apa/d/spacious-private-bedroom-with/6622238954.html","hood":"visitacion valley"}
+{"title":"Top Floor 1 BR Condo - Close to BART","price":"$2600","url":"https://sfbay.craigslist.org/eby/apa/d/top-floor-1-br-condo-close-to/6626900285.html","hood":"oakland downtown"}
+{"title":"\"FULLY REMODELED\" 5 Bdrm, 2 Bath, House","price":"$4995","url":"https://sfbay.craigslist.org/eby/apa/d/fully-remodeled-5-bdrm-2-bath/6626900256.html","hood":"Emeryville"}
+{"title":"Lease Today, Fitness Ctr, Personal Trainer, Near Public Transport","price":"$5592","url":"https://sfbay.craigslist.org/sfc/apa/d/lease-today-fitness-ctr/6626900096.html","hood":"SOMA / south beach"}
+{"title":"Have the summer of your dreams here!!","price":"$3295","url":"https://sfbay.craigslist.org/nby/apa/d/have-the-summer-of-your/6626899662.html","hood":"rohnert pk / cotati"}
+{"title":"Gorgeous Studio Coming Available Soon!","price":"$2462","url":"https://sfbay.craigslist.org/eby/apa/d/gorgeous-studio-coming/6626899602.html","hood":"emeryville"}
+{"title":"3 Room 2 Bath Home The property was re-worked several months ago.","price":"$1198","url":"https://sfbay.craigslist.org/nby/apa/d/3-room-2-bath-home-the/6626847914.html","hood":"all neighborhoods"}
+{"title":"Top Floor, July Move in! Call Now for extra Space and a Nice View!","price":"$3888","url":"https://sfbay.craigslist.org/sby/apa/d/top-floor-july-move-in-call/6626899471.html","hood":"san jose west"}
+{"title":"Studio Available Soon!!","price":"$2375","url":"https://sfbay.craigslist.org/pen/apa/d/studio-available-soon/6626899337.html","hood":"daly city"}
+{"title":"Washer and Dryer in unit in beautiful downtown Brentwood!","price":"$2300","url":"https://sfbay.craigslist.org/eby/apa/d/washer-and-dryer-in-unit-in/6626888133.html","hood":"brentwood / oakley"}
+{"title":"Beautiful 2 Bedroom With Vaulted Ceilings And Washer Dryer In Home!","price":"$2638","url":"https://sfbay.craigslist.org/eby/apa/d/beautiful-2-bedroom-with/6626898863.html","hood":"danville / san ramon"}
+{"title":"Sunny West Facing Studio Home Opening The First Week Of July","price":"$3458","url":"https://sfbay.craigslist.org/sfc/apa/d/sunny-west-facing-studio-home/6625077558.html","hood":"SOMA / south beach"}
+{"title":"Well Lit 2 Bed 2 Bath W/ High Ceilings & Breakfast Bar!","price":"$3666","url":"https://sfbay.craigslist.org/pen/apa/d/well-lit-2-bed-2-bath-high/6626898576.html","hood":"foster city"}
+{"title":"Don't Miss Out! Move in Today Spacious Home","price":"$2250","url":"https://sfbay.craigslist.org/sfc/apa/d/dont-miss-out-move-in-today/6626794964.html","hood":"Spacious^*"}
+{"title":"Novato townhouse( end unit)","price":"$2700","url":"https://sfbay.craigslist.org/nby/apa/d/novato-townhouse-end-unit/6620495192.html","hood":"novato"}
+{"title":"Lush landscaping, river views, and resort style amenities!","price":"$3370","url":"https://sfbay.craigslist.org/nby/apa/d/lush-landscaping-river-views/6626897977.html","hood":"napa county"}
+{"title":"2X2 Perfect For Roommates! Upper, Sunny Unit with W/D","price":"$4016","url":"https://sfbay.craigslist.org/pen/apa/d/2x2-perfect-for-roommates/6626897910.html","hood":"mountain view"}
+{"title":"Coming soon our 2 BR 2.5 BA Townhouse Style Floor Plan!","price":"$3740","url":"https://sfbay.craigslist.org/sby/apa/d/coming-soon-our-2-br-25-ba/6626897931.html","hood":"sunnyvale"}
+{"title":"MOVE IN READY - come see your New Home today !","price":"$2820","url":"https://sfbay.craigslist.org/sby/apa/d/move-in-ready-come-see-your/6626897813.html","hood":"santa clara"}
+{"title":"This Townhouse Has All The Storage You Need!","price":"$2742","url":"https://sfbay.craigslist.org/eby/apa/d/this-townhouse-has-all-the/6626897707.html","hood":"dublin / pleasanton / livermore"}
+{"title":"1 Bedroom With Luxurious Amenities!","price":"$2970","url":"https://sfbay.craigslist.org/sby/apa/d/1-bedroom-with-luxurious/6626879513.html","hood":"santa clara"}
+{"title":"Valley Terrace - 2 Bedroom Condo - Water/Sewer/Garbage Paid","price":"$2200","url":"https://sfbay.craigslist.org/eby/apa/d/valley-terrace-2-bedroom/6622080769.html","hood":"vallejo / benicia"}
+{"title":"2 bed 1 bath apt home in the best community - Call today!","price":"$2363","url":"https://sfbay.craigslist.org/eby/apa/d/2-bed-1-bath-apt-home-in-the/6626897633.html","hood":"dublin / pleasanton / livermore"}
+{"title":"Renovated 2x1 available soon! Laundry in unit. Double vanities.","price":"$2420","url":"https://sfbay.craigslist.org/nby/apa/d/renovated-2x1-available-soon/6626897637.html","hood":"rohnert pk / cotati"}
+{"title":"Large Lot-Updated Southampton 4 bedroom/3bath","price":"$3000","url":"https://sfbay.craigslist.org/eby/apa/d/large-lot-updated-southampton/6622084546.html","hood":"vallejo / benicia"}
+{"title":"Beautiful Remodeled East Vallejo-Lower Unit","price":"$1525","url":"https://sfbay.craigslist.org/eby/apa/d/beautiful-remodeled-east/6622085077.html","hood":"vallejo / benicia"}
+{"title":"Great location, pool, spa, Gym and one parking included- RWC downtown","price":"$4515","url":"https://sfbay.craigslist.org/pen/apa/d/great-location-pool-spa-gym/6626897417.html","hood":"redwood city"}
+{"title":"SUMMER FUN! BBQ by the Pool! Picnic Area! Fitness & Spa! Pets OK!","price":"$2094","url":"https://sfbay.craigslist.org/nby/apa/d/summer-fun-bbq-by-the-pool/6622157978.html","hood":"petaluma"}
+{"title":"Studio/Downtown/755 O'farrell&Hyde/Newly Remodeled/Available Now!!","price":"$2295","url":"https://sfbay.craigslist.org/sfc/apa/d/studio-downtown-755/6626897197.html","hood":"downtown / civic / van ness"}
+{"title":"Spacious 1 bedroom with private washer and dryer room !!!","price":"$2801","url":"https://sfbay.craigslist.org/sby/apa/d/spacious-1-bedroom-with/6626897100.html","hood":"santa clara"}
+{"title":"Gorgeous Renovated 1x1 Available 6/30 w/ Washer & Dryer","price":"$2268","url":"https://sfbay.craigslist.org/eby/apa/d/gorgeous-renovated-1x1/6626896980.html","hood":"fremont / union city / newark"}
+{"title":"Apartment 1 bed 1 bath - short lease term, option to extend","price":"$1650","url":"https://sfbay.craigslist.org/eby/apa/d/apartment-1-bed-1-bath-short/6626896540.html","hood":"hayward / castro valley"}
+{"title":"Exceptional Mid-City SF Apt Overlooking GG Park Avail for 8/1 Move In","price":"$6750","url":"https://sfbay.craigslist.org/sfc/apa/d/exceptional-mid-city-sf-apt/6616018115.html","hood":"cole valley / ashbury hts"}
+{"title":"GG Park/ NOPA Condo with Ultra Convenient Location + Backyard + BBQ","price":"$6750","url":"https://sfbay.craigslist.org/sfc/apa/d/gg-park-nopa-condo-with-ultra/6615612171.html","hood":"USF / panhandle"}
+{"title":"Stylish, Designer Apt Living at Lake Merritt. 5 Star Yelp Reviews.","price":"$2675","url":"https://sfbay.craigslist.org/eby/apa/d/stylish-designer-apt-living/6620452585.html","hood":"oakland north / temescal"}
+{"title":"Spotless Updated Studio with Kitchen, Good for Students","price":"$2150","url":"https://sfbay.craigslist.org/sfc/apa/d/spotless-updated-studio-with/6617157550.html","hood":"lower nob hill"}
+{"title":"Central location, lush views, convenient amenities, owner onsite","price":"$6750","url":"https://sfbay.craigslist.org/sfc/apa/d/central-location-lush-views/6616422429.html","hood":"alamo square / nopa"}
+{"title":"HIGHLY PERSONALIZED LIVING WITH MODERN STYLE AT LAKE MERRITT","price":"$2675","url":"https://sfbay.craigslist.org/eby/apa/d/highly-personalized-living/6622401976.html","hood":"oakland downtown"}
+{"title":"Contemporary-Furn & Equipped-Polk St / Hayes Valley-w/d-Parking.!","price":"$2850","url":"https://sfbay.craigslist.org/sfc/apa/d/contemporary-furn-equipped/6626896039.html","hood":"downtown / civic / van ness"}
+{"title":"Clean downstairs apt in 8-unit complex near San Thomas Expwy","price":"$1595","url":"https://sfbay.craigslist.org/sby/apa/d/clean-downstairs-apt-in-8/6626895943.html","hood":"san jose west"}
+{"title":"Spacious, Bright, Calm Apt: Embrace Modern + Stylish Living by GG Park","price":"$6750","url":"https://sfbay.craigslist.org/sfc/apa/d/spacious-bright-calm-apt/6616003704.html","hood":"haight ashbury"}
+{"title":"Private Room in a 2bed/2 bath apartment - Fillmore Center","price":"$1800","url":"https://sfbay.craigslist.org/sfc/apa/d/private-room-in-2bed-2-bath/6626895866.html","hood":"lower pac hts"}
+{"title":"AVAIL 7/20 *PERSONAL ON SITE MGMT + ULTRA MODERN APT = HAPPY TENANTS","price":"$2675","url":"https://sfbay.craigslist.org/eby/apa/d/avail-7-20-personal-on-site/6618983469.html","hood":"oakland downtown"}
+{"title":"The most spectacular views in San Francisco","price":"$3610","url":"https://sfbay.craigslist.org/sfc/apa/d/the-most-spectacular-views-in/6626886685.html","hood":"financial district"}
+{"title":"One of Lake Merritt's Finest Bldgs*5 Star Concierge Service*Modern Apt","price":"$2675","url":"https://sfbay.craigslist.org/eby/apa/d/one-of-lake-merritts-finest/6618928452.html","hood":"oakland lake merritt / grand"}
+{"title":"Live in Walkable, Central GG Park: All modern + spacious interiors","price":"$6750","url":"https://sfbay.craigslist.org/sfc/apa/d/live-in-walkable-central-gg/6610589974.html","hood":"alamo square / nopa"}
+{"title":"☀ Pittsburg Apartment Homes, Swimming Pool, Dishwasher","price":"$1915","url":"https://sfbay.craigslist.org/eby/apa/d/pittsburg-apartment-homes/6626875435.html","hood":"Pittsburg, CA"}
+{"title":"Mid-City Designer Condo with Exciting Amenities, High Quality Living","price":"$6750","url":"https://sfbay.craigslist.org/sfc/apa/d/mid-city-designer-condo-with/6609926011.html","hood":"haight ashbury"}
+{"title":"Spacious Home-OPEN HOUSE TUESDAY (June 26) -Great Layout-Lauriedale","price":"$5495","url":"https://sfbay.craigslist.org/pen/apa/d/spacious-home-open-house/6621622593.html","hood":"san mateo"}
+{"title":"Top Floor 2 Bed 2 Bath w/ Westhern Exposure!","price":"$3570","url":"https://sfbay.craigslist.org/pen/apa/d/top-floor-2-bed-2-bath/6626895537.html","hood":"foster city"}
+{"title":"First floor, hardwood flooring and big patio!! Move in THIS WEEK!!!","price":"$4095","url":"https://sfbay.craigslist.org/sby/apa/d/first-floor-hardwood-flooring/6626895470.html","hood":"santa clara"}
+{"title":"2 Bedroom Apartment Home Fully Remodeled","price":"$2100","url":"https://sfbay.craigslist.org/eby/apa/d/2-bedroom-apartment-home/6626895343.html","hood":"brentwood / oakley"}
+{"title":"Live Here & Be Home, 2 bedroom LOADED with Amenities. Call TODAY!!!","price":"$2125","url":"https://sfbay.craigslist.org/eby/apa/d/live-here-be-home-2-bedroom/6622212512.html","hood":"Tracy, CA"}
+{"title":"Mid-City Gem in the Heart of GG Park: Parking, W/D, Views + more","price":"$6750","url":"https://sfbay.craigslist.org/sfc/apa/d/mid-city-gem-in-the-heart-of/6624959096.html","hood":"USF / panhandle"}
+{"title":"Mid-City Gem in the Heart of GG Park: Parking, W/D, Views + more","price":"$6750","url":"https://sfbay.craigslist.org/sfc/apa/d/mid-city-gem-in-the-heart-of/6624961491.html","hood":"USF / panhandle"}
+{"title":"Deluxe two-bedroom top floor 16 unit building","price":"$3995","url":"https://sfbay.craigslist.org/sfc/apa/d/deluxe-two-bedroom-top-floor/6614394276.html","hood":"north beach / telegraph hill"}
+{"title":"Mid-City Gem in the Heart of GG Park: Parking, W/D, Views + more","price":"$6750","url":"https://sfbay.craigslist.org/sfc/apa/d/mid-city-gem-in-the-heart-of/6624962545.html","hood":"USF / panhandle"}
+{"title":"Cozy & Nice Studio Apartment - close to many amenities!","price":"$1735","url":"https://sfbay.craigslist.org/pen/apa/d/cozy-nice-studio-apartment/6626876835.html","hood":"daly city"}
+{"title":"FRIENDLY COMMUNITY+VERY PERSONAL BOUTIQUE APT+WALK WHOLE FOODS+BART","price":"$2675","url":"https://sfbay.craigslist.org/eby/apa/d/friendly-communityvery/6621191580.html","hood":"oakland lake merritt / grand"}
+{"title":"GRAN CASA SUPERIOR PARA ALQUILER! SEC 8 ¡OK! ¡PRÓXIMAMENTE!","price":"$3200","url":"https://sfbay.craigslist.org/eby/apa/d/gran-casa-superior-para/6626891709.html","hood":"oakland east"}
+{"title":"Spacious Completely Remodled 2BR/1.5BA Townhome","price":"$3125","url":"https://sfbay.craigslist.org/sby/apa/d/spacious-completely-remodled/6623980573.html","hood":"san jose west"}
+{"title":"HIGHLY PERSONALIZED LIVING EXPERIENCE WITH STYLE AT LAKE MERRITT","price":"$2675","url":"https://sfbay.craigslist.org/eby/apa/d/highly-personalized-living/6624967136.html","hood":"oakland downtown"}
+{"title":"ONE OF LAKE MERRITT'S BEST APTS*CONCIERGE MGMT*STYLISH APTS","price":"$2675","url":"https://sfbay.craigslist.org/eby/apa/d/one-of-lake-merritts-best/6621116802.html","hood":"oakland lake merritt / grand"}
+{"title":"Top Floor 1 Bed 1 Bath W/ Large Private Patio & Cathedral Ceilings!","price":"$3138","url":"https://sfbay.craigslist.org/pen/apa/d/top-floor-1-bed-1-bath-large/6626894765.html","hood":"foster city"}
+{"title":"Large 1b/1b in-law apartment in a beautiful location","price":"$2100","url":"https://sfbay.craigslist.org/pen/apa/d/large-1b-1b-in-law-apartment/6626894697.html","hood":"san bruno"}
+{"title":"Delightful, Modern + Customized 1 BRM: Live Happy by the Lake","price":"$2675","url":"https://sfbay.craigslist.org/eby/apa/d/delightful-modern-customized/6624977363.html","hood":"oakland lake merritt / grand"}
+{"title":"1 Month FREE On 3bd2.5bth Town House 3 Min Away From Hwy 101","price":"$5875","url":"https://sfbay.craigslist.org/nby/apa/d/1-month-free-on-3bd25bth-town/6626894666.html","hood":"corte madera"}
+{"title":"Completely Upgraded Unit! Wood Flooring, Washer/Dryer, AND $500 Off","price":"$2402","url":"https://sfbay.craigslist.org/nby/apa/d/completely-upgraded-unit-wood/6626894517.html","hood":"san rafael"}
+{"title":"Huge 2x2 available soon! Walk-In Closets, Updated Kitchen, Lrg Pantry","price":"$2605","url":"https://sfbay.craigslist.org/nby/apa/d/huge-2x2-available-soon-walk/6621549409.html","hood":"rohnert pk / cotati"}
+{"title":"Washer and Dryer Upgrade! Private Garden Location, Storage Included","price":"$3595","url":"https://sfbay.craigslist.org/sby/apa/d/washer-and-dryer-upgrade/6626894375.html","hood":"cupertino"}
+{"title":"Studio Private Side Entrance of 16 unit building","price":"$2495","url":"https://sfbay.craigslist.org/sfc/apa/d/studio-private-side-entrance/6614409857.html","hood":"north beach / telegraph hill"}
+{"title":"2nd floor 2 bed 2 bath apt home available soon! Call or stop by today!","price":"$2559","url":"https://sfbay.craigslist.org/eby/apa/d/2nd-floor-2-bed-2-bath-apt/6626894293.html","hood":"dublin / pleasanton / livermore"}
+{"title":"Lafayette! Great Mt. Diablo View in Lafayette hills ~","price":"$3235","url":"https://sfbay.craigslist.org/eby/apa/d/lafayette-great-mt-diablo/6626894230.html","hood":"lafayette / orinda / moraga"}
+{"title":"Charming and Spacious Home-OPEN HOUSE MON. (June 25) near Borel Square","price":"$4500","url":"https://sfbay.craigslist.org/pen/apa/d/charming-and-spacious-home/6620570494.html","hood":"san mateo"}
+{"title":"Large 1x1 with bonus space. Available Now! Newly Renovated","price":"$2010","url":"https://sfbay.craigslist.org/nby/apa/d/large-1x1-with-bonus-space/6619361950.html","hood":"rohnert pk / cotati"}
+{"title":"Very Large and Charming One Bedroom Loft at Prospect Ridge Apartments","price":"$2150","url":"https://sfbay.craigslist.org/nby/apa/d/very-large-and-charming-one/6626893838.html","hood":"san rafael"}
+{"title":"Enjoy Fantastic Amenities in This Apartment Home!","price":"$1960","url":"https://sfbay.craigslist.org/eby/apa/d/enjoy-fantastic-amenities-in/6626893808.html","hood":"fairfield / vacaville"}
+{"title":"Beautiful Updated Home 4Bedroom and 2Bathroom, Excellent Location","price":"$4100","url":"https://sfbay.craigslist.org/sby/apa/d/beautiful-updated-home/6626890919.html","hood":"san jose west"}
+{"title":"Don't Miss Out! Move in Today Spacious Home","price":"$2250","url":"https://sfbay.craigslist.org/sfc/apa/d/dont-miss-out-move-in-today/6626795970.html","hood":"Spacious^*"}
+{"title":"Well maintained and quiet unit","price":"$2700","url":"https://sfbay.craigslist.org/sfc/apa/d/well-maintained-and-quiet-unit/6626886800.html","hood":"marina / cow hollow"}
+{"title":"Large 1300 sq ft 2BR 1BA in Alamo Square/Hayes Valley!","price":"$4700","url":"https://sfbay.craigslist.org/sfc/apa/d/large-1300-sq-ft-2br-1ba-in/6626893385.html","hood":"alamo square / nopa"}
+{"title":"GREAT LOCATION, 2 BDRM 1 DEN","price":"$3100","url":"https://sfbay.craigslist.org/sby/apa/d/great-location-2-bdrm-1-den/6626893191.html","hood":"milpitas"}
+{"title":"Gorgeous Updated Downtown Menlo Park 3BD 2BA Bungalow","price":"$4995","url":"https://sfbay.craigslist.org/pen/apa/d/gorgeous-updated-downtown/6609402071.html","hood":"menlo park"}
+{"title":"Remodeled Elegant 3BD 2-1/2BA 1,980 SF Belmont SFR w/ Amazing Views","price":"$5995","url":"https://sfbay.craigslist.org/pen/apa/d/remodeled-elegant-3bd-2-1-2ba/6605947415.html","hood":"belmont"}
